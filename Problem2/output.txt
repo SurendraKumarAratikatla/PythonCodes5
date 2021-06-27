@@ -1,0 +1,1567 @@
+{
+    "Entire World Status": {
+        "World": {
+            "Total Cases": 181848418,
+            "Active Cases": 11580432,
+            "Total Deaths": 3938478,
+            "Recovery Rate": 0.9146601869255745,
+            "Percentage of Population Infected": 18184841800.0
+        }
+    },
+    "Individual Country Status": {
+        "USA": {
+            "Total Cases": 34494575,
+            "Active Cases": 4947806,
+            "Total Deaths": 619434,
+            "Recovery Rate": 0.8386053459130892,
+            "Percentage of Population Infected": 10.361432982660315
+        },
+        "India": {
+            "Total Cases": 30278912,
+            "Active Cases": 579937,
+            "Total Deaths": 396753,
+            "Recovery Rate": 0.967743556967965,
+            "Percentage of Population Infected": 2.173107814196237
+        },
+        "Brazil": {
+            "Total Cases": 18420598,
+            "Active Cases": 1325071,
+            "Total Deaths": 513474,
+            "Recovery Rate": 0.9001908081377162,
+            "Percentage of Population Infected": 8.605897361794103
+        },
+        "France": {
+            "Total Cases": 5770021,
+            "Active Cases": 56085,
+            "Total Deaths": 110968,
+            "Recovery Rate": 0.9710481123032307,
+            "Percentage of Population Infected": 8.820531530021716
+        },
+        "Russia": {
+            "Total Cases": 5451291,
+            "Active Cases": 361295,
+            "Total Deaths": 133282,
+            "Recovery Rate": 0.9092734179848406,
+            "Percentage of Population Infected": 3.7338599317666845
+        },
+        "Turkey": {
+            "Total Cases": 5409027,
+            "Active Cases": 84220,
+            "Total Deaths": 49576,
+            "Recovery Rate": 0.9752643127867544,
+            "Percentage of Population Infected": 6.346294104807944
+        },
+        "UK": {
+            "Total Cases": 4732434,
+            "Active Cases": 287820,
+            "Total Deaths": 128100,
+            "Recovery Rate": 0.9121128789117819,
+            "Percentage of Population Infected": 6.935283123967661
+        },
+        "Argentina": {
+            "Total Cases": 4405247,
+            "Active Cases": 285169,
+            "Total Deaths": 92568,
+            "Recovery Rate": 0.9142529351929642,
+            "Percentage of Population Infected": 9.659853843751712
+        },
+        "Italy": {
+            "Total Cases": 4258069,
+            "Active Cases": 57162,
+            "Total Deaths": 127472,
+            "Recovery Rate": 0.9566390305088996,
+            "Percentage of Population Infected": 7.0527987678970145
+        },
+        "Colombia": {
+            "Total Cases": 4158716,
+            "Active Cases": 199581,
+            "Total Deaths": 104678,
+            "Recovery Rate": 0.9268382356477336,
+            "Percentage of Population Infected": 8.088355693034362
+        },
+        "Spain": {
+            "Total Cases": 3782463,
+            "Active Cases": 125801,
+            "Total Deaths": 80779,
+            "Recovery Rate": 0.9453847929246102,
+            "Percentage of Population Infected": 8.086916225035477
+        },
+        "Germany": {
+            "Total Cases": 3734472,
+            "Active Cases": 23759,
+            "Total Deaths": 91313,
+            "Recovery Rate": 0.9691865409621494,
+            "Percentage of Population Infected": 4.443271566894077
+        },
+        "Iran": {
+            "Total Cases": 3167741,
+            "Active Cases": 248263,
+            "Total Deaths": 83845,
+            "Recovery Rate": 0.8951593580409509,
+            "Percentage of Population Infected": 3.7245940283856083
+        },
+        "Poland": {
+            "Total Cases": 2879638,
+            "Active Cases": 153137,
+            "Total Deaths": 74979,
+            "Recovery Rate": 0.9207830984311223,
+            "Percentage of Population Infected": 7.616931689858378
+        },
+        "Mexico": {
+            "Total Cases": 2503408,
+            "Active Cases": 282791,
+            "Total Deaths": 232521,
+            "Recovery Rate": 0.7941558068041645,
+            "Percentage of Population Infected": 1.9217871516295966
+        },
+        "Ukraine": {
+            "Total Cases": 2233996,
+            "Active Cases": 18641,
+            "Total Deaths": 52286,
+            "Recovery Rate": 0.9682510622221346,
+            "Percentage of Population Infected": 5.138636355742497
+        },
+        "Indonesia": {
+            "Total Cases": 2115304,
+            "Active Cases": 207685,
+            "Total Deaths": 57138,
+            "Recovery Rate": 0.8748061744316656,
+            "Percentage of Population Infected": 0.7653960778086148
+        },
+        "Peru": {
+            "Total Cases": 2046057,
+            "Active Cases": 0,
+            "Total Deaths": 191584,
+            "Recovery Rate": 0.0,
+            "Percentage of Population Infected": 6.121699954103489
+        },
+        "South Africa": {
+            "Total Cases": 1928897,
+            "Active Cases": 158998,
+            "Total Deaths": 59900,
+            "Recovery Rate": 0.8865164910308845,
+            "Percentage of Population Infected": 3.212500769442513
+        },
+        "Netherlands": {
+            "Total Cases": 1683271,
+            "Active Cases": 41952,
+            "Total Deaths": 17741,
+            "Recovery Rate": 0.9645374987152989,
+            "Percentage of Population Infected": 9.802290571499167
+        },
+        "Czechia": {
+            "Total Cases": 1666890,
+            "Active Cases": 1853,
+            "Total Deaths": 30298,
+            "Recovery Rate": 0.9807119845940644,
+            "Percentage of Population Infected": 15.53694934098295
+        },
+        "Chile": {
+            "Total Cases": 1547103,
+            "Active Cases": 30395,
+            "Total Deaths": 32298,
+            "Recovery Rate": 0.9594771647395164,
+            "Percentage of Population Infected": 8.025387585629776
+        },
+        "Canada": {
+            "Total Cases": 1413203,
+            "Active Cases": 8626,
+            "Total Deaths": 26227,
+            "Recovery Rate": 0.9753375841970333,
+            "Percentage of Population Infected": 3.712346699872117
+        },
+        "Philippines": {
+            "Total Cases": 1397992,
+            "Active Cases": 52570,
+            "Total Deaths": 24372,
+            "Recovery Rate": 0.9449624890557313,
+            "Percentage of Population Infected": 1.259293660665924
+        },
+        "Iraq": {
+            "Total Cases": 1325700,
+            "Active Cases": 77384,
+            "Total Deaths": 17091,
+            "Recovery Rate": 0.9287357622388173,
+            "Percentage of Population Infected": 3.225000215291936
+        },
+        "Sweden": {
+            "Total Cases": 1088896,
+            "Active Cases": 20336,
+            "Total Deaths": 14584,
+            "Recovery Rate": 0.9679308216762667,
+            "Percentage of Population Infected": 10.716168217198604
+        },
+        "Belgium": {
+            "Total Cases": 1082476,
+            "Active Cases": 31791,
+            "Total Deaths": 25160,
+            "Recovery Rate": 0.9473882099926465,
+            "Percentage of Population Infected": 9.300190870781787
+        },
+        "Romania": {
+            "Total Cases": 1080630,
+            "Active Cases": 2026,
+            "Total Deaths": 33253,
+            "Recovery Rate": 0.9673533031657459,
+            "Percentage of Population Infected": 5.6544806381275245
+        },
+        "Pakistan": {
+            "Total Cases": 954743,
+            "Active Cases": 32241,
+            "Total Deaths": 22211,
+            "Recovery Rate": 0.942966850765075,
+            "Percentage of Population Infected": 0.42414348786771244
+        },
+        "Bangladesh": {
+            "Total Cases": 888406,
+            "Active Cases": 70131,
+            "Total Deaths": 14172,
+            "Recovery Rate": 0.9051075746899503,
+            "Percentage of Population Infected": 0.534210012304005
+        },
+        "Portugal": {
+            "Total Cases": 874547,
+            "Active Cases": 31779,
+            "Total Deaths": 17084,
+            "Recovery Rate": 0.9441276455124767,
+            "Percentage of Population Infected": 8.601490510493894
+        },
+        "Israel": {
+            "Total Cases": 840888,
+            "Active Cases": 1180,
+            "Total Deaths": 6429,
+            "Recovery Rate": 0.9909512325065882,
+            "Percentage of Population Infected": 9.016598756165559
+        },
+        "Hungary": {
+            "Total Cases": 807910,
+            "Active Cases": 40697,
+            "Total Deaths": 29980,
+            "Recovery Rate": 0.9125187211446819,
+            "Percentage of Population Infected": 8.384147132437167
+        },
+        "Japan": {
+            "Total Cases": 794457,
+            "Active Cases": 17888,
+            "Total Deaths": 14657,
+            "Recovery Rate": 0.9590349131545194,
+            "Percentage of Population Infected": 0.6300482923062062
+        },
+        "Jordan": {
+            "Total Cases": 749784,
+            "Active Cases": 6453,
+            "Total Deaths": 9727,
+            "Recovery Rate": 0.9784204517567726,
+            "Percentage of Population Infected": 7.27752388079476
+        },
+        "Malaysia": {
+            "Total Cases": 734048,
+            "Active Cases": 61395,
+            "Total Deaths": 4944,
+            "Recovery Rate": 0.9096258010375343,
+            "Percentage of Population Infected": 2.2397634476261143
+        },
+        "Serbia": {
+            "Total Cases": 716301,
+            "Active Cases": 2245,
+            "Total Deaths": 7031,
+            "Recovery Rate": 0.98705013674419,
+            "Percentage of Population Infected": 8.2308320586267
+        },
+        "Switzerland": {
+            "Total Cases": 702507,
+            "Active Cases": 11374,
+            "Total Deaths": 10882,
+            "Recovery Rate": 0.9683191768907641,
+            "Percentage of Population Infected": 8.059138920847884
+        },
+        "Austria": {
+            "Total Cases": 650261,
+            "Active Cases": 2137,
+            "Total Deaths": 10700,
+            "Recovery Rate": 0.9802586961235565,
+            "Percentage of Population Infected": 7.17966536755842
+        },
+        "Nepal": {
+            "Total Cases": 633679,
+            "Active Cases": 40336,
+            "Total Deaths": 9009,
+            "Recovery Rate": 0.9221293430901134,
+            "Percentage of Population Infected": 2.13712515135661
+        },
+        "UAE": {
+            "Total Cases": 626936,
+            "Active Cases": 19522,
+            "Total Deaths": 1796,
+            "Recovery Rate": 0.965996529151301,
+            "Percentage of Population Infected": 6.2644480462869065
+        },
+        "Lebanon": {
+            "Total Cases": 544454,
+            "Active Cases": 4862,
+            "Total Deaths": 7843,
+            "Recovery Rate": 0.9766646952726952,
+            "Percentage of Population Infected": 8.012222578187577
+        },
+        "Morocco": {
+            "Total Cases": 529676,
+            "Active Cases": 4130,
+            "Total Deaths": 9277,
+            "Recovery Rate": 0.9746883000173691,
+            "Percentage of Population Infected": 1.4185010646470781
+        },
+        "Saudi Arabia": {
+            "Total Cases": 483221,
+            "Active Cases": 11190,
+            "Total Deaths": 7775,
+            "Recovery Rate": 0.9607529474091565,
+            "Percentage of Population Infected": 1.3671086537923183
+        },
+        "Ecuador": {
+            "Total Cases": 454336,
+            "Active Cases": 9125,
+            "Total Deaths": 21523,
+            "Recovery Rate": 0.9325433159599944,
+            "Percentage of Population Infected": 2.537321584802877
+        },
+        "Bolivia": {
+            "Total Cases": 433013,
+            "Active Cases": 63430,
+            "Total Deaths": 16551,
+            "Recovery Rate": 0.8152919196421354,
+            "Percentage of Population Infected": 3.6604685157592387
+        },
+        "Bulgaria": {
+            "Total Cases": 421531,
+            "Active Cases": 9379,
+            "Total Deaths": 18027,
+            "Recovery Rate": 0.9349846156035974,
+            "Percentage of Population Infected": 6.111966175691243
+        },
+        "Greece": {
+            "Total Cases": 420905,
+            "Active Cases": 4692,
+            "Total Deaths": 12655,
+            "Recovery Rate": 0.9587864244900869,
+            "Percentage of Population Infected": 4.057765935724748
+        },
+        "Kazakhstan": {
+            "Total Cases": 418172,
+            "Active Cases": 22270,
+            "Total Deaths": 4306,
+            "Recovery Rate": 0.9364472035430397,
+            "Percentage of Population Infected": 2.2012018461434804
+        },
+        "Paraguay": {
+            "Total Cases": 416843,
+            "Active Cases": 44448,
+            "Total Deaths": 12365,
+            "Recovery Rate": 0.8637064794179103,
+            "Percentage of Population Infected": 5.774538877630223
+        },
+        "Belarus": {
+            "Total Cases": 415339,
+            "Active Cases": 3919,
+            "Total Deaths": 3113,
+            "Recovery Rate": 0.9830692518641398,
+            "Percentage of Population Infected": 4.396862292257707
+        },
+        "Tunisia": {
+            "Total Cases": 407017,
+            "Active Cases": 45056,
+            "Total Deaths": 14654,
+            "Recovery Rate": 0.8532985108730102,
+            "Percentage of Population Infected": 3.4087937846298466
+        },
+        "Panama": {
+            "Total Cases": 400666,
+            "Active Cases": 11988,
+            "Total Deaths": 6524,
+            "Recovery Rate": 0.9537969281146891,
+            "Percentage of Population Infected": 9.144591988091621
+        },
+        "Slovakia": {
+            "Total Cases": 391551,
+            "Active Cases": 525,
+            "Total Deaths": 12505,
+            "Recovery Rate": 0.9667220872887567,
+            "Percentage of Population Infected": 7.168312387134382
+        },
+        "Uruguay": {
+            "Total Cases": 365866,
+            "Active Cases": 17878,
+            "Total Deaths": 5494,
+            "Recovery Rate": 0.9361186882629159,
+            "Percentage of Population Infected": 10.496542044867061
+        },
+        "Georgia": {
+            "Total Cases": 363522,
+            "Active Cases": 8598,
+            "Total Deaths": 5266,
+            "Recovery Rate": 0.9618620056007614,
+            "Percentage of Population Infected": 9.130009239964568
+        },
+        "Costa Rica": {
+            "Total Cases": 361005,
+            "Active Cases": 69155,
+            "Total Deaths": 4602,
+            "Recovery Rate": 0.7956898103904378,
+            "Percentage of Population Infected": 7.023623952988676
+        },
+        "Croatia": {
+            "Total Cases": 359652,
+            "Active Cases": 514,
+            "Total Deaths": 8200,
+            "Recovery Rate": 0.9757710231001079,
+            "Percentage of Population Infected": 8.814386449570668
+        },
+        "Kuwait": {
+            "Total Cases": 351481,
+            "Active Cases": 18533,
+            "Total Deaths": 1933,
+            "Recovery Rate": 0.9417721014791696,
+            "Percentage of Population Infected": 8.112482242166646
+        },
+        "Azerbaijan": {
+            "Total Cases": 335836,
+            "Active Cases": 784,
+            "Total Deaths": 4968,
+            "Recovery Rate": 0.9828725925749473,
+            "Percentage of Population Infected": 3.2831553860950304
+        },
+        "Dominican Republic": {
+            "Total Cases": 322778,
+            "Active Cases": 55023,
+            "Total Deaths": 3797,
+            "Recovery Rate": 0.817769488626858,
+            "Percentage of Population Infected": 2.9464322553719455
+        },
+        "Palestine": {
+            "Total Cases": 313721,
+            "Active Cases": 2544,
+            "Total Deaths": 3559,
+            "Recovery Rate": 0.9805464090704799,
+            "Percentage of Population Infected": 6.012749933110958
+        },
+        "Denmark": {
+            "Total Cases": 292943,
+            "Active Cases": 3067,
+            "Total Deaths": 2532,
+            "Recovery Rate": 0.980887066767255,
+            "Percentage of Population Infected": 5.0400616624428585
+        },
+        "Guatemala": {
+            "Total Cases": 291595,
+            "Active Cases": 20374,
+            "Total Deaths": 9050,
+            "Recovery Rate": 0.8990929199746224,
+            "Percentage of Population Infected": 1.5985962373903488
+        },
+        "Egypt": {
+            "Total Cases": 280394,
+            "Active Cases": 54250,
+            "Total Deaths": 16092,
+            "Recovery Rate": 0.7491315791350742,
+            "Percentage of Population Infected": 0.26902051994086756
+        },
+        "Lithuania": {
+            "Total Cases": 278674,
+            "Active Cases": 6945,
+            "Total Deaths": 4380,
+            "Recovery Rate": 0.9593611172911718,
+            "Percentage of Population Infected": 10.379878662908157
+        },
+        "Ethiopia": {
+            "Total Cases": 275935,
+            "Active Cases": 12577,
+            "Total Deaths": 4314,
+            "Recovery Rate": 0.9387863083697248,
+            "Percentage of Population Infected": 0.23433527078855163
+        },
+        "Ireland": {
+            "Total Cases": 271260,
+            "Active Cases": 10494,
+            "Total Deaths": 4989,
+            "Recovery Rate": 0.9429219199292193,
+            "Percentage of Population Infected": 5.433888788172288
+        },
+        "Venezuela": {
+            "Total Cases": 268349,
+            "Active Cases": 16255,
+            "Total Deaths": 3055,
+            "Recovery Rate": 0.9280414683863178,
+            "Percentage of Population Infected": 0.946340845841789
+        },
+        "Bahrain": {
+            "Total Cases": 265247,
+            "Active Cases": 4115,
+            "Total Deaths": 1345,
+            "Recovery Rate": 0.9794154128039149,
+            "Percentage of Population Infected": 15.07662593515926
+        },
+        "Oman": {
+            "Total Cases": 262059,
+            "Active Cases": 29094,
+            "Total Deaths": 2967,
+            "Recovery Rate": 0.8776573214428812,
+            "Percentage of Population Infected": 5.007065633583656
+        },
+        "Honduras": {
+            "Total Cases": 259628,
+            "Active Cases": 160403,
+            "Total Deaths": 6916,
+            "Recovery Rate": 0.3555433158210979,
+            "Percentage of Population Infected": 2.580984569245736
+        },
+        "Slovenia": {
+            "Total Cases": 257240,
+            "Active Cases": 791,
+            "Total Deaths": 4419,
+            "Recovery Rate": 0.979746540195926,
+            "Percentage of Population Infected": 12.371947172497379
+        },
+        "Moldova": {
+            "Total Cases": 256559,
+            "Active Cases": 819,
+            "Total Deaths": 6184,
+            "Recovery Rate": 0.9727041343316742,
+            "Percentage of Population Infected": 6.374583262727973
+        },
+        "Sri Lanka": {
+            "Total Cases": 253618,
+            "Active Cases": 31676,
+            "Total Deaths": 2944,
+            "Recovery Rate": 0.86349549322209,
+            "Percentage of Population Infected": 1.1795276987257308
+        },
+        "Thailand": {
+            "Total Cases": 244447,
+            "Active Cases": 43607,
+            "Total Deaths": 1912,
+            "Recovery Rate": 0.8137878558542343,
+            "Percentage of Population Infected": 0.34934720861151936
+        },
+        "Armenia": {
+            "Total Cases": 224797,
+            "Active Cases": 3731,
+            "Total Deaths": 4508,
+            "Recovery Rate": 0.963349155015414,
+            "Percentage of Population Infected": 7.572237006096945
+        },
+        "Qatar": {
+            "Total Cases": 221692,
+            "Active Cases": 1771,
+            "Total Deaths": 588,
+            "Recovery Rate": 0.9893591108384606,
+            "Percentage of Population Infected": 7.895562547968965
+        },
+        "Bosnia and Herzegovina": {
+            "Total Cases": 204945,
+            "Active Cases": 13565,
+            "Total Deaths": 9655,
+            "Recovery Rate": 0.8867013101075898,
+            "Percentage of Population Infected": 6.285343460461173
+        },
+        "Libya": {
+            "Total Cases": 192470,
+            "Active Cases": 11683,
+            "Total Deaths": 3187,
+            "Recovery Rate": 0.92274120642178,
+            "Percentage of Population Infected": 2.764149553315615
+        },
+        "Kenya": {
+            "Total Cases": 182597,
+            "Active Cases": 54566,
+            "Total Deaths": 3595,
+            "Recovery Rate": 0.6814788851952661,
+            "Percentage of Population Infected": 0.3324049144307245
+        },
+        "Cuba": {
+            "Total Cases": 182354,
+            "Active Cases": 12241,
+            "Total Deaths": 1241,
+            "Recovery Rate": 0.9260668809019819,
+            "Percentage of Population Infected": 1.6109293794122352
+        },
+        "Nigeria": {
+            "Total Cases": 167467,
+            "Active Cases": 1399,
+            "Total Deaths": 2119,
+            "Recovery Rate": 0.978992876208447,
+            "Percentage of Population Infected": 0.07931454448450857
+        },
+        "North Macedonia": {
+            "Total Cases": 155673,
+            "Active Cases": 228,
+            "Total Deaths": 5484,
+            "Recovery Rate": 0.9633077026844732,
+            "Percentage of Population Infected": 7.4724594271560845
+        },
+        "S. Korea": {
+            "Total Cases": 155071,
+            "Active Cases": 6718,
+            "Total Deaths": 2013,
+            "Recovery Rate": 0.94369675825912,
+            "Percentage of Population Infected": 0.3022080475104547
+        },
+        "Myanmar": {
+            "Total Cases": 153160,
+            "Active Cases": 14450,
+            "Total Deaths": 3297,
+            "Recovery Rate": 0.884127709584748,
+            "Percentage of Population Infected": 0.2796484915596768
+        },
+        "Zambia": {
+            "Total Cases": 148568,
+            "Active Cases": 21964,
+            "Total Deaths": 2022,
+            "Recovery Rate": 0.8385520435086964,
+            "Percentage of Population Infected": 0.7865873535360403
+        },
+        "Algeria": {
+            "Total Cases": 138465,
+            "Active Cases": 38437,
+            "Total Deaths": 3693,
+            "Recovery Rate": 0.695735384393168,
+            "Percentage of Population Infected": 0.31026510642520017
+        },
+        "Latvia": {
+            "Total Cases": 137210,
+            "Active Cases": 1218,
+            "Total Deaths": 2503,
+            "Recovery Rate": 0.9728809853509219,
+            "Percentage of Population Infected": 7.354738421955403
+        },
+        "Albania": {
+            "Total Cases": 132512,
+            "Active Cases": 66,
+            "Total Deaths": 2456,
+            "Recovery Rate": 0.9809677614102874,
+            "Percentage of Population Infected": 4.609595648100897
+        },
+        "Estonia": {
+            "Total Cases": 130968,
+            "Active Cases": 2550,
+            "Total Deaths": 1269,
+            "Recovery Rate": 0.9708402052409749,
+            "Percentage of Population Infected": 9.866401891195963
+        },
+        "Norway": {
+            "Total Cases": 130588,
+            "Active Cases": 40844,
+            "Total Deaths": 792,
+            "Recovery Rate": 0.681165191288633,
+            "Percentage of Population Infected": 2.390431391701219
+        },
+        "Kyrgyzstan": {
+            "Total Cases": 120865,
+            "Active Cases": 10423,
+            "Total Deaths": 1977,
+            "Recovery Rate": 0.8974061969966491,
+            "Percentage of Population Infected": 1.8230419286822799
+        },
+        "Afghanistan": {
+            "Total Cases": 115751,
+            "Active Cases": 42733,
+            "Total Deaths": 4730,
+            "Recovery Rate": 0.589956026297829,
+            "Percentage of Population Infected": 0.2909234526813762
+        },
+        "Mongolia": {
+            "Total Cases": 109694,
+            "Active Cases": 39218,
+            "Total Deaths": 518,
+            "Recovery Rate": 0.6377559392491841,
+            "Percentage of Population Infected": 3.2939983790359317
+        },
+        "Uzbekistan": {
+            "Total Cases": 109223,
+            "Active Cases": 3488,
+            "Total Deaths": 729,
+            "Recovery Rate": 0.9613909158327458,
+            "Percentage of Population Infected": 0.32175896037415397
+        },
+        "Montenegro": {
+            "Total Cases": 100190,
+            "Active Cases": 273,
+            "Total Deaths": 1609,
+            "Recovery Rate": 0.9812156901886416,
+            "Percentage of Population Infected": 15.950164293537789
+        },
+        "Ghana": {
+            "Total Cases": 95369,
+            "Active Cases": 1362,
+            "Total Deaths": 795,
+            "Recovery Rate": 0.977382587633298,
+            "Percentage of Population Infected": 0.30076484067874354
+        },
+        "Finland": {
+            "Total Cases": 95084,
+            "Active Cases": 48115,
+            "Total Deaths": 969,
+            "Recovery Rate": 0.48378276050649954,
+            "Percentage of Population Infected": 1.713472212210769
+        },
+        "Namibia": {
+            "Total Cases": 84705,
+            "Active Cases": 19373,
+            "Total Deaths": 1400,
+            "Recovery Rate": 0.7547606398677764,
+            "Percentage of Population Infected": 3.2754549114035947
+        },
+        "Cameroon": {
+            "Total Cases": 80487,
+            "Active Cases": 943,
+            "Total Deaths": 1320,
+            "Recovery Rate": 0.9718836582305217,
+            "Percentage of Population Infected": 0.29598501169292857
+        },
+        "El Salvador": {
+            "Total Cases": 78572,
+            "Active Cases": 3767,
+            "Total Deaths": 2367,
+            "Recovery Rate": 0.9219314768619865,
+            "Percentage of Population Infected": 1.2053832022306001
+        },
+        "Uganda": {
+            "Total Cases": 78394,
+            "Active Cases": 26143,
+            "Total Deaths": 903,
+            "Recovery Rate": 0.654999107074521,
+            "Percentage of Population Infected": 0.16625522771148937
+        },
+        "Mozambique": {
+            "Total Cases": 75138,
+            "Active Cases": 3189,
+            "Total Deaths": 868,
+            "Recovery Rate": 0.9460060155979664,
+            "Percentage of Population Infected": 0.2339862306306156
+        },
+        "Cyprus": {
+            "Total Cases": 74785,
+            "Active Cases": 2035,
+            "Total Deaths": 374,
+            "Recovery Rate": 0.967787657952798,
+            "Percentage of Population Infected": 6.150046833611977
+        },
+        "Maldives": {
+            "Total Cases": 73327,
+            "Active Cases": 4087,
+            "Total Deaths": 209,
+            "Recovery Rate": 0.9414131220423582,
+            "Percentage of Population Infected": 13.33494578876349
+        },
+        "Luxembourg": {
+            "Total Cases": 70600,
+            "Active Cases": 186,
+            "Total Deaths": 818,
+            "Recovery Rate": 0.9857790368271955,
+            "Percentage of Population Infected": 11.10106529344707
+        },
+        "Botswana": {
+            "Total Cases": 67492,
+            "Active Cases": 5056,
+            "Total Deaths": 1095,
+            "Recovery Rate": 0.90886327268417,
+            "Percentage of Population Infected": 2.814293803733322
+        },
+        "Singapore": {
+            "Total Cases": 62544,
+            "Active Cases": 313,
+            "Total Deaths": 36,
+            "Recovery Rate": 0.9944199283704273,
+            "Percentage of Population Infected": 1.0608573261897116
+        },
+        "Jamaica": {
+            "Total Cases": 50005,
+            "Active Cases": 19114,
+            "Total Deaths": 1061,
+            "Recovery Rate": 0.5965403459654035,
+            "Percentage of Population Infected": 1.681466011050162
+        },
+        "Ivory Coast": {
+            "Total Cases": 48192,
+            "Active Cases": 107,
+            "Total Deaths": 312,
+            "Recovery Rate": 0.9913056108897742,
+            "Percentage of Population Infected": 0.17837038489021628
+        },
+        "Cambodia": {
+            "Total Cases": 47649,
+            "Active Cases": 4952,
+            "Total Deaths": 540,
+            "Recovery Rate": 0.8847404982266155,
+            "Percentage of Population Infected": 0.2811771852351558
+        },
+        "Zimbabwe": {
+            "Total Cases": 46442,
+            "Active Cases": 6889,
+            "Total Deaths": 1736,
+            "Recovery Rate": 0.814284483872357,
+            "Percentage of Population Infected": 0.30806444690717344
+        },
+        "Senegal": {
+            "Total Cases": 42904,
+            "Active Cases": 504,
+            "Total Deaths": 1164,
+            "Recovery Rate": 0.961122506060041,
+            "Percentage of Population Infected": 0.24979299389572157
+        },
+        "Madagascar": {
+            "Total Cases": 42194,
+            "Active Cases": 719,
+            "Total Deaths": 906,
+            "Recovery Rate": 0.9614874152723136,
+            "Percentage of Population Infected": 0.14863348185996234
+        },
+        "DRC": {
+            "Total Cases": 40254,
+            "Active Cases": 11119,
+            "Total Deaths": 916,
+            "Recovery Rate": 0.7010235007701098,
+            "Percentage of Population Infected": 0.043648342607241694
+        },
+        "Angola": {
+            "Total Cases": 38556,
+            "Active Cases": 4876,
+            "Total Deaths": 889,
+            "Recovery Rate": 0.8504772279282083,
+            "Percentage of Population Infected": 0.11385005933012547
+        },
+        "Rwanda": {
+            "Total Cases": 36627,
+            "Active Cases": 9117,
+            "Total Deaths": 420,
+            "Recovery Rate": 0.7396183143582603,
+            "Percentage of Population Infected": 0.2760836568078211
+        },
+        "Sudan": {
+            "Total Cases": 36620,
+            "Active Cases": 3379,
+            "Total Deaths": 2754,
+            "Recovery Rate": 0.8325232113599126,
+            "Percentage of Population Infected": 0.08164582646913103
+        },
+        "Malawi": {
+            "Total Cases": 35629,
+            "Active Cases": 1416,
+            "Total Deaths": 1182,
+            "Recovery Rate": 0.9270818715091639,
+            "Percentage of Population Infected": 0.18165197299055566
+        },
+        "Cabo Verde": {
+            "Total Cases": 32372,
+            "Active Cases": 670,
+            "Total Deaths": 286,
+            "Recovery Rate": 0.9704683059434079,
+            "Percentage of Population Infected": 5.760921405741701
+        },
+        "Trinidad and Tobago": {
+            "Total Cases": 32198,
+            "Active Cases": 7508,
+            "Total Deaths": 817,
+            "Recovery Rate": 0.7414435679234735,
+            "Percentage of Population Infected": 2.293384883090649
+        },
+        "Malta": {
+            "Total Cases": 30606,
+            "Active Cases": 28,
+            "Total Deaths": 420,
+            "Recovery Rate": 0.9853623472521728,
+            "Percentage of Population Infected": 6.913469813711738
+        },
+        "Australia": {
+            "Total Cases": 30495,
+            "Active Cases": 278,
+            "Total Deaths": 910,
+            "Recovery Rate": 0.9610427939006394,
+            "Percentage of Population Infected": 0.11824034176673831
+        },
+        "Réunion": {
+            "Total Cases": 29502,
+            "Active Cases": 1691,
+            "Total Deaths": 226,
+            "Recovery Rate": 0.9350213544844417,
+            "Percentage of Population Infected": 3.272186415468518
+        },
+        "French Guiana": {
+            "Total Cases": 27286,
+            "Active Cases": 17149,
+            "Total Deaths": 142,
+            "Recovery Rate": 0.3663050648684307,
+            "Percentage of Population Infected": 8.909394274817885
+        },
+        "Syria": {
+            "Total Cases": 25404,
+            "Active Cases": 1738,
+            "Total Deaths": 1867,
+            "Recovery Rate": 0.8580932136671391,
+            "Percentage of Population Infected": 0.1417868446544395
+        },
+        "Gabon": {
+            "Total Cases": 24984,
+            "Active Cases": 227,
+            "Total Deaths": 159,
+            "Recovery Rate": 0.9845501120717259,
+            "Percentage of Population Infected": 1.0971459888344404
+        },
+        "Guinea": {
+            "Total Cases": 23692,
+            "Active Cases": 1132,
+            "Total Deaths": 168,
+            "Recovery Rate": 0.9451291575215263,
+            "Percentage of Population Infected": 0.1757384899708079
+        },
+        "Suriname": {
+            "Total Cases": 21249,
+            "Active Cases": 4032,
+            "Total Deaths": 507,
+            "Recovery Rate": 0.7863899477622477,
+            "Percentage of Population Infected": 3.5905590045319213
+        },
+        "Mauritania": {
+            "Total Cases": 20635,
+            "Active Cases": 481,
+            "Total Deaths": 486,
+            "Recovery Rate": 0.9531378725466441,
+            "Percentage of Population Infected": 0.4326640721499578
+        },
+        "Guyana": {
+            "Total Cases": 19877,
+            "Active Cases": 1734,
+            "Total Deaths": 462,
+            "Recovery Rate": 0.889520551391055,
+            "Percentage of Population Infected": 2.515155848050523
+        },
+        "Mayotte": {
+            "Total Cases": 19405,
+            "Active Cases": 16267,
+            "Total Deaths": 174,
+            "Recovery Rate": 0.15274413810873486,
+            "Percentage of Population Infected": 6.948671856536157
+        },
+        "Eswatini": {
+            "Total Cases": 19035,
+            "Active Cases": 262,
+            "Total Deaths": 678,
+            "Recovery Rate": 0.9506172839506173,
+            "Percentage of Population Infected": 1.6241814031869282
+        },
+        "French Polynesia": {
+            "Total Cases": 18994,
+            "Active Cases": 24,
+            "Total Deaths": 142,
+            "Recovery Rate": 0.9912603980204275,
+            "Percentage of Population Infected": 6.723397025195925
+        },
+        "Haiti": {
+            "Total Cases": 18212,
+            "Active Cases": 4997,
+            "Total Deaths": 413,
+            "Recovery Rate": 0.7029431144300461,
+            "Percentage of Population Infected": 0.15782816246490639
+        },
+        "Papua New Guinea": {
+            "Total Cases": 17098,
+            "Active Cases": 407,
+            "Total Deaths": 173,
+            "Recovery Rate": 0.9660779038484033,
+            "Percentage of Population Infected": 0.18761649905944858
+        },
+        "Guadeloupe": {
+            "Total Cases": 16881,
+            "Active Cases": 14401,
+            "Total Deaths": 230,
+            "Recovery Rate": 0.1332859427759019,
+            "Percentage of Population Infected": 4.218235792409124
+        },
+        "Vietnam": {
+            "Total Cases": 15401,
+            "Active Cases": 9189,
+            "Total Deaths": 75,
+            "Recovery Rate": 0.3984806181416791,
+            "Percentage of Population Infected": 0.01568330162491062
+        },
+        "Seychelles": {
+            "Total Cases": 15116,
+            "Active Cases": 1426,
+            "Total Deaths": 63,
+            "Recovery Rate": 0.9014951045250066,
+            "Percentage of Population Infected": 15.277019788571543
+        },
+        "Somalia": {
+            "Total Cases": 14892,
+            "Active Cases": 6882,
+            "Total Deaths": 775,
+            "Recovery Rate": 0.4858313188289014,
+            "Percentage of Population Infected": 0.09121063188168048
+        },
+        "Taiwan": {
+            "Total Cases": 14634,
+            "Active Cases": 2994,
+            "Total Deaths": 632,
+            "Recovery Rate": 0.7522208555418888,
+            "Percentage of Population Infected": 0.06133471532732909
+        },
+        "Mali": {
+            "Total Cases": 14417,
+            "Active Cases": 3834,
+            "Total Deaths": 525,
+            "Recovery Rate": 0.6976486092807103,
+            "Percentage of Population Infected": 0.06924140439069365
+        },
+        "Andorra": {
+            "Total Cases": 13882,
+            "Active Cases": 58,
+            "Total Deaths": 127,
+            "Recovery Rate": 0.9866733900014407,
+            "Percentage of Population Infected": 17.93841342861204
+        },
+        "Togo": {
+            "Total Cases": 13816,
+            "Active Cases": 247,
+            "Total Deaths": 128,
+            "Recovery Rate": 0.9728575564562826,
+            "Percentage of Population Infected": 0.16313988063960846
+        },
+        "Burkina Faso": {
+            "Total Cases": 13478,
+            "Active Cases": 13,
+            "Total Deaths": 168,
+            "Recovery Rate": 0.9865707078201513,
+            "Percentage of Population Infected": 0.06279308759826736
+        },
+        "Tajikistan": {
+            "Total Cases": 13415,
+            "Active Cases": 73,
+            "Total Deaths": 90,
+            "Recovery Rate": 0.987849422288483,
+            "Percentage of Population Infected": 0.13762408609245774
+        },
+        "Belize": {
+            "Total Cases": 13137,
+            "Active Cases": 196,
+            "Total Deaths": 329,
+            "Recovery Rate": 0.9600365380223795,
+            "Percentage of Population Infected": 3.2460280200637492
+        },
+        "Congo": {
+            "Total Cases": 12485,
+            "Active Cases": 1109,
+            "Total Deaths": 165,
+            "Recovery Rate": 0.8979575490588706,
+            "Percentage of Population Infected": 0.22093043832174267
+        },
+        "Bahamas": {
+            "Total Cases": 12467,
+            "Active Cases": 788,
+            "Total Deaths": 245,
+            "Recovery Rate": 0.9171412529076762,
+            "Percentage of Population Infected": 3.140784856111392
+        },
+        "Curaçao": {
+            "Total Cases": 12330,
+            "Active Cases": 33,
+            "Total Deaths": 126,
+            "Recovery Rate": 0.9871046228710463,
+            "Percentage of Population Infected": 7.4838850650060085
+        },
+        "Martinique": {
+            "Total Cases": 12264,
+            "Active Cases": 12068,
+            "Total Deaths": 98,
+            "Recovery Rate": 0.007990867579908675,
+            "Percentage of Population Infected": 3.2705918747233174
+        },
+        "Hong Kong": {
+            "Total Cases": 11918,
+            "Active Cases": 82,
+            "Total Deaths": 211,
+            "Recovery Rate": 0.9754153381439838,
+            "Percentage of Population Infected": 0.15771190436396698
+        },
+        "Djibouti": {
+            "Total Cases": 11601,
+            "Active Cases": 8,
+            "Total Deaths": 155,
+            "Recovery Rate": 0.9859494871131799,
+            "Percentage of Population Infected": 1.1576561877875804
+        },
+        "Lesotho": {
+            "Total Cases": 11239,
+            "Active Cases": 4463,
+            "Total Deaths": 329,
+            "Recovery Rate": 0.5736275469347807,
+            "Percentage of Population Infected": 0.5205756856554742
+        },
+        "Aruba": {
+            "Total Cases": 11131,
+            "Active Cases": 33,
+            "Total Deaths": 107,
+            "Recovery Rate": 0.9874225137004762,
+            "Percentage of Population Infected": 10.38223333208969
+        },
+        "South Sudan": {
+            "Total Cases": 10812,
+            "Active Cases": 183,
+            "Total Deaths": 115,
+            "Recovery Rate": 0.9724380318165002,
+            "Percentage of Population Infected": 0.09548949050368852
+        },
+        "Timor-Leste": {
+            "Total Cases": 9035,
+            "Active Cases": 838,
+            "Total Deaths": 21,
+            "Recovery Rate": 0.9049252905368014,
+            "Percentage of Population Infected": 0.6727090107268607
+        },
+        "Equatorial Guinea": {
+            "Total Cases": 8723,
+            "Active Cases": 92,
+            "Total Deaths": 121,
+            "Recovery Rate": 0.9755817952539264,
+            "Percentage of Population Infected": 0.6024104706025348
+        },
+        "Benin": {
+            "Total Cases": 8170,
+            "Active Cases": 66,
+            "Total Deaths": 104,
+            "Recovery Rate": 0.9791921664626683,
+            "Percentage of Population Infected": 0.06570677935526771
+        },
+        "Nicaragua": {
+            "Total Cases": 7920,
+            "Active Cases": 3506,
+            "Total Deaths": 189,
+            "Recovery Rate": 0.5334595959595959,
+            "Percentage of Population Infected": 0.11817339737774425
+        },
+        "CAR": {
+            "Total Cases": 7139,
+            "Active Cases": 182,
+            "Total Deaths": 98,
+            "Recovery Rate": 0.960778820563104,
+            "Percentage of Population Infected": 0.14533279969317048
+        },
+        "Yemen": {
+            "Total Cases": 6908,
+            "Active Cases": 1523,
+            "Total Deaths": 1360,
+            "Recovery Rate": 0.5826577880718008,
+            "Percentage of Population Infected": 0.02267166244034453
+        },
+        "Iceland": {
+            "Total Cases": 6637,
+            "Active Cases": 12,
+            "Total Deaths": 30,
+            "Recovery Rate": 0.9936718396866054,
+            "Percentage of Population Infected": 1.9326020680035991
+        },
+        "Gambia": {
+            "Total Cases": 6069,
+            "Active Cases": 33,
+            "Total Deaths": 181,
+            "Recovery Rate": 0.964738836711155,
+            "Percentage of Population Infected": 0.24441321095892615
+        },
+        "Eritrea": {
+            "Total Cases": 5780,
+            "Active Cases": 498,
+            "Total Deaths": 21,
+            "Recovery Rate": 0.9102076124567474,
+            "Percentage of Population Infected": 0.16079514031462433
+        },
+        "Niger": {
+            "Total Cases": 5478,
+            "Active Cases": 85,
+            "Total Deaths": 193,
+            "Recovery Rate": 0.9492515516611902,
+            "Percentage of Population Infected": 0.021857913903520574
+        },
+        "Burundi": {
+            "Total Cases": 5348,
+            "Active Cases": 4567,
+            "Total Deaths": 8,
+            "Recovery Rate": 0.14454001495886312,
+            "Percentage of Population Infected": 0.04370323996437385
+        },
+        "Sierra Leone": {
+            "Total Cases": 5306,
+            "Active Cases": 1805,
+            "Total Deaths": 93,
+            "Recovery Rate": 0.6422917451941199,
+            "Percentage of Population Infected": 0.06521597784082507
+        },
+        "Saint Lucia": {
+            "Total Cases": 5269,
+            "Active Cases": 84,
+            "Total Deaths": 84,
+            "Recovery Rate": 0.9681153919149744,
+            "Percentage of Population Infected": 2.856554244170602
+        },
+        "San Marino": {
+            "Total Cases": 5090,
+            "Active Cases": 0,
+            "Total Deaths": 90,
+            "Recovery Rate": 0.9823182711198428,
+            "Percentage of Population Infected": 14.970147936825388
+        },
+        "Chad": {
+            "Total Cases": 4951,
+            "Active Cases": 8,
+            "Total Deaths": 174,
+            "Recovery Rate": 0.9632397495455464,
+            "Percentage of Population Infected": 0.029318573810975204
+        },
+        "Gibraltar": {
+            "Total Cases": 4339,
+            "Active Cases": 28,
+            "Total Deaths": 94,
+            "Recovery Rate": 0.9718829223323346,
+            "Percentage of Population Infected": 12.88263412606514
+        },
+        "Channel Islands": {
+            "Total Cases": 4219,
+            "Active Cases": 139,
+            "Total Deaths": 86,
+            "Recovery Rate": 0.9466698269732164,
+            "Percentage of Population Infected": 2.4048244689037217
+        },
+        "Barbados": {
+            "Total Cases": 4074,
+            "Active Cases": 29,
+            "Total Deaths": 47,
+            "Recovery Rate": 0.9813451153657339,
+            "Percentage of Population Infected": 1.4159501185171797
+        },
+        "Comoros": {
+            "Total Cases": 3912,
+            "Active Cases": 21,
+            "Total Deaths": 146,
+            "Recovery Rate": 0.9573108384458078,
+            "Percentage of Population Infected": 0.4406601341129744
+        },
+        "Guinea-Bissau": {
+            "Total Cases": 3846,
+            "Active Cases": 203,
+            "Total Deaths": 69,
+            "Recovery Rate": 0.9292771710868435,
+            "Percentage of Population Infected": 0.19100451189805145
+        },
+        "Fiji": {
+            "Total Cases": 3591,
+            "Active Cases": 2823,
+            "Total Deaths": 15,
+            "Recovery Rate": 0.2096908939014202,
+            "Percentage of Population Infected": 0.3977462155405682
+        },
+        "Liberia": {
+            "Total Cases": 3529,
+            "Active Cases": 1142,
+            "Total Deaths": 113,
+            "Recovery Rate": 0.6443751771039955,
+            "Percentage of Population Infected": 0.06820465028543907
+        },
+        "Liechtenstein": {
+            "Total Cases": 3032,
+            "Active Cases": 16,
+            "Total Deaths": 59,
+            "Recovery Rate": 0.975263852242744,
+            "Percentage of Population Infected": 7.929699759389057
+        },
+        "New Zealand": {
+            "Total Cases": 2729,
+            "Active Cases": 21,
+            "Total Deaths": 26,
+            "Recovery Rate": 0.9827775742030047,
+            "Percentage of Population Infected": 0.05455708602386997
+        },
+        "Sint Maarten": {
+            "Total Cases": 2601,
+            "Active Cases": 52,
+            "Total Deaths": 33,
+            "Recovery Rate": 0.9673202614379085,
+            "Percentage of Population Infected": 5.99944641786225
+        },
+        "Monaco": {
+            "Total Cases": 2570,
+            "Active Cases": 38,
+            "Total Deaths": 33,
+            "Recovery Rate": 0.9723735408560311,
+            "Percentage of Population Infected": 6.503694705941896
+        },
+        "Bermuda": {
+            "Total Cases": 2510,
+            "Active Cases": 13,
+            "Total Deaths": 33,
+            "Recovery Rate": 0.9816733067729083,
+            "Percentage of Population Infected": 4.045059708949091
+        },
+        "Turks and Caicos": {
+            "Total Cases": 2424,
+            "Active Cases": 10,
+            "Total Deaths": 18,
+            "Recovery Rate": 0.9884488448844885,
+            "Percentage of Population Infected": 6.17862969004894
+        },
+        "Sao Tome and Principe": {
+            "Total Cases": 2365,
+            "Active Cases": 10,
+            "Total Deaths": 37,
+            "Recovery Rate": 0.9801268498942918,
+            "Percentage of Population Infected": 1.059815730981573
+        },
+        "Saint Martin": {
+            "Total Cases": 2276,
+            "Active Cases": 865,
+            "Total Deaths": 12,
+            "Recovery Rate": 0.6146748681898067,
+            "Percentage of Population Infected": 5.789433520718338
+        },
+        "St. Vincent Grenadines": {
+            "Total Cases": 2218,
+            "Active Cases": 238,
+            "Total Deaths": 12,
+            "Recovery Rate": 0.8872858431018936,
+            "Percentage of Population Infected": 1.9930450097495662
+        },
+        "Laos": {
+            "Total Cases": 2100,
+            "Active Cases": 125,
+            "Total Deaths": 3,
+            "Recovery Rate": 0.939047619047619,
+            "Percentage of Population Infected": 0.028458180500481822
+        },
+        "Bhutan": {
+            "Total Cases": 2052,
+            "Active Cases": 304,
+            "Total Deaths": 1,
+            "Recovery Rate": 0.851364522417154,
+            "Percentage of Population Infected": 0.26309041489307144
+        },
+        "Mauritius": {
+            "Total Cases": 1833,
+            "Active Cases": 404,
+            "Total Deaths": 18,
+            "Recovery Rate": 0.7697763229678123,
+            "Percentage of Population Infected": 0.14389483195391597
+        },
+        "Caribbean Netherlands": {
+            "Total Cases": 1639,
+            "Active Cases": 10,
+            "Total Deaths": 17,
+            "Recovery Rate": 0.9835265405735204,
+            "Percentage of Population Infected": 6.1935532630465175
+        },
+        "Isle of Man": {
+            "Total Cases": 1605,
+            "Active Cases": 7,
+            "Total Deaths": 29,
+            "Recovery Rate": 0.9775700934579439,
+            "Percentage of Population Infected": 1.8777200617717253
+        },
+        "Antigua and Barbuda": {
+            "Total Cases": 1263,
+            "Active Cases": 0,
+            "Total Deaths": 42,
+            "Recovery Rate": 0.9667458432304038,
+            "Percentage of Population Infected": 1.2792853018930992
+        },
+        "St. Barth": {
+            "Total Cases": 1005,
+            "Active Cases": 542,
+            "Total Deaths": 1,
+            "Recovery Rate": 0.4597014925373134,
+            "Percentage of Population Infected": 10.144342384172807
+        },
+        "Faeroe Islands": {
+            "Total Cases": 771,
+            "Active Cases": 13,
+            "Total Deaths": 1,
+            "Recovery Rate": 0.9818417639429312,
+            "Percentage of Population Infected": 1.5719936386249644
+        },
+        "Diamond Princess": {
+            "Total Cases": 712,
+            "Active Cases": 0,
+            "Total Deaths": 13,
+            "Recovery Rate": 0.9817415730337079,
+            "Percentage of Population Infected": 71200.0
+        },
+        "Cayman Islands": {
+            "Total Cases": 609,
+            "Active Cases": 17,
+            "Total Deaths": 2,
+            "Recovery Rate": 0.9688013136288999,
+            "Percentage of Population Infected": 0.916051202599239
+        },
+        "Tanzania": {
+            "Total Cases": 509,
+            "Active Cases": 305,
+            "Total Deaths": 21,
+            "Recovery Rate": 0.35952848722986247,
+            "Percentage of Population Infected": 0.0008290093060284922
+        },
+        "Wallis and Futuna": {
+            "Total Cases": 445,
+            "Active Cases": 0,
+            "Total Deaths": 7,
+            "Recovery Rate": 0.9842696629213483,
+            "Percentage of Population Infected": 4.029337196667874
+        },
+        "Saint Kitts and Nevis": {
+            "Total Cases": 428,
+            "Active Cases": 313,
+            "Total Deaths": 3,
+            "Recovery Rate": 0.2616822429906542,
+            "Percentage of Population Infected": 0.7989695532864157
+        },
+        "British Virgin Islands": {
+            "Total Cases": 298,
+            "Active Cases": 4,
+            "Total Deaths": 1,
+            "Recovery Rate": 0.9832214765100671,
+            "Percentage of Population Infected": 0.9793289296394886
+        },
+        "Brunei": {
+            "Total Cases": 259,
+            "Active Cases": 11,
+            "Total Deaths": 3,
+            "Recovery Rate": 0.9459459459459459,
+            "Percentage of Population Infected": 0.05865062794668454
+        },
+        "Dominica": {
+            "Total Cases": 193,
+            "Active Cases": 2,
+            "Total Deaths": 0,
+            "Recovery Rate": 0.9896373056994818,
+            "Percentage of Population Infected": 0.26745378454033975
+        },
+        "Grenada": {
+            "Total Cases": 161,
+            "Active Cases": 0,
+            "Total Deaths": 1,
+            "Recovery Rate": 0.9937888198757764,
+            "Percentage of Population Infected": 0.14243249938072827
+        },
+        "New Caledonia": {
+            "Total Cases": 129,
+            "Active Cases": 71,
+            "Total Deaths": 0,
+            "Recovery Rate": 0.4496124031007752,
+            "Percentage of Population Infected": 0.044761048865879935
+        },
+        "Anguilla": {
+            "Total Cases": 109,
+            "Active Cases": 0,
+            "Total Deaths": 0,
+            "Recovery Rate": 1.0,
+            "Percentage of Population Infected": 0.7201850016518005
+        },
+        "Falkland Islands": {
+            "Total Cases": 63,
+            "Active Cases": 0,
+            "Total Deaths": 0,
+            "Recovery Rate": 1.0,
+            "Percentage of Population Infected": 1.760268231349539
+        },
+        "Macao": {
+            "Total Cases": 53,
+            "Active Cases": 2,
+            "Total Deaths": 0,
+            "Recovery Rate": 0.9622641509433962,
+            "Percentage of Population Infected": 0.008054344026868075
+        },
+        "Greenland": {
+            "Total Cases": 50,
+            "Active Cases": 9,
+            "Total Deaths": 0,
+            "Recovery Rate": 0.82,
+            "Percentage of Population Infected": 0.08792445530799936
+        },
+        "Vatican City": {
+            "Total Cases": 27,
+            "Active Cases": 0,
+            "Total Deaths": 0,
+            "Recovery Rate": 1.0,
+            "Percentage of Population Infected": 3.3623910336239105
+        },
+        "Saint Pierre Miquelon": {
+            "Total Cases": 26,
+            "Active Cases": 1,
+            "Total Deaths": 0,
+            "Recovery Rate": 0.9615384615384616,
+            "Percentage of Population Infected": 0.4509191814082553
+        },
+        "Montserrat": {
+            "Total Cases": 20,
+            "Active Cases": 0,
+            "Total Deaths": 1,
+            "Recovery Rate": 0.95,
+            "Percentage of Population Infected": 0.40040040040040037
+        },
+        "Solomon Islands": {
+            "Total Cases": 20,
+            "Active Cases": 0,
+            "Total Deaths": 0,
+            "Recovery Rate": 1.0,
+            "Percentage of Population Infected": 0.0028434132332451874
+        },
+        "Western Sahara": {
+            "Total Cases": 10,
+            "Active Cases": 1,
+            "Total Deaths": 1,
+            "Recovery Rate": 0.8,
+            "Percentage of Population Infected": 0.0016347295013094182
+        },
+        "MS Zaandam": {
+            "Total Cases": 9,
+            "Active Cases": 0,
+            "Total Deaths": 2,
+            "Recovery Rate": 0.7777777777777778,
+            "Percentage of Population Infected": 900.0
+        },
+        "Vanuatu": {
+            "Total Cases": 4,
+            "Active Cases": 0,
+            "Total Deaths": 1,
+            "Recovery Rate": 0.75,
+            "Percentage of Population Infected": 0.0012731717254023222
+        },
+        "Marshall Islands": {
+            "Total Cases": 4,
+            "Active Cases": 0,
+            "Total Deaths": 0,
+            "Recovery Rate": 1.0,
+            "Percentage of Population Infected": 0.006713324270345569
+        },
+        "Samoa": {
+            "Total Cases": 3,
+            "Active Cases": 0,
+            "Total Deaths": 0,
+            "Recovery Rate": 1.0,
+            "Percentage of Population Infected": 0.0015021706365698434
+        },
+        "Saint Helena": {
+            "Total Cases": 2,
+            "Active Cases": 0,
+            "Total Deaths": 0,
+            "Recovery Rate": 1.0,
+            "Percentage of Population Infected": 0.03281378178835111
+        },
+        "Micronesia": {
+            "Total Cases": 1,
+            "Active Cases": 0,
+            "Total Deaths": 0,
+            "Recovery Rate": 1.0,
+            "Percentage of Population Infected": 0.0008605259534627563
+        },
+        "China": {
+            "Total Cases": 91732,
+            "Active Cases": 462,
+            "Total Deaths": 4636,
+            "Recovery Rate": 0.9444250643177953,
+            "Percentage of Population Infected": 0.006373270665682383
+        }
+    }
+}
